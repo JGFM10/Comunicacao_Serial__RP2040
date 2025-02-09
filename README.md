@@ -2,6 +2,8 @@ Resumo do Funcionamento do Código
 Este código é projetado para controlar uma matriz de LEDs NeoPixel (WS2812B) e um display OLED SSD1306 usando um microcontrolador Raspberry Pi Pico. 
 O código também inclui a leitura de botões e a exibição de informações no display OLED com base nas interações do usuário.
 
+Vídeo Demonstrando o Funcionamento do Projeto:https://youtu.be/PgtJErYjKpo
+
 Funcionalidades Principais
 1)Controle de LEDs NeoPixel:
 
